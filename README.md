@@ -6,7 +6,7 @@ I had never done data visualization beyond python and maybe even Matlab, so I de
 
 Here is a list of Things I have tried:
 
-## Good Doggos at the Pound <https://github.com/kpatil-7/My-projects/tree/main/Power%20Bi/Good%20Doggoes%20at%20the%20Pound>
+## [Good Doggos at the Pound](https://github.com/kpatil-7/My-projects/tree/main/Power%20Bi/Good%20Doggoes%20at%20the%20Pound)
 
 I am a dog person... So I had to give back to the dogs who are just waiting to be adopted. My keys take aways from the project were the gender ratio of the dogs their age, breeds and how compatible they are with kids. There are just a few factors that generally influence if a dog gets adopted or not.
 
