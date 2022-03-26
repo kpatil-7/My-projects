@@ -1,0 +1,2 @@
+## Netflix watchtime
+For this one I wanted to know how much content I had streamed on Netflix, what type of content it was, where there any standouts or even if there was any watching pattern I followed. 
