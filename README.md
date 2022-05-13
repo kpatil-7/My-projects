@@ -1,4 +1,4 @@
-### My Projects
+# My Projects
 These are a few projects that I have done :)
 
 ## Power BI
