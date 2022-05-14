@@ -1,5 +1,5 @@
 ## Good Doggos at the Pound
-
+### Introduction 
 I am a dog person... So I had to give back to the dogs who are just waiting to be adopted. 
 
 I love puppies, in all shapes and sizes. Growing up I always insisted on getting a puppy, but I was always denied and I got a bunch of fishes instead. I still remember how I would insist on going to my uncle’s house because he used to have three Labradors and one Rottweiler. I was the only one who was pet the Rottweiler and wasn’t scared of him.
@@ -14,3 +14,5 @@ Currently, I live in a cramped space that doesn’t allow dogs, but hopefully in
 
 
 My key take aways from the project were the gender ratio of the dogs their age, breeds and how compatible they are with kids. There are just a few factors that generally influence if a dog gets adopted or not.
+
+### Working
