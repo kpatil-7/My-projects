@@ -1,0 +1,6 @@
+Stock price prediction for a particular stock:
+
+I never really understood stocks before I decided to take on this project and kill two birds with one. It always seemed too risky to put money into something that is beyond my control, but I really wanted to explore it. 
+The model takes in data of how the stock has altered in the past couple of months and returns the last value of the stock when the market was closed along with five possible predictions. 
+What I learnt was, that if all the predictions are high, that very well could mean that I am earning 0.02 cents on that stock tomorrow. 
+With this, I played around with predictive analysis over a large dataset.
