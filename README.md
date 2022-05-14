@@ -8,19 +8,19 @@ So, with that, here is a bunch of stuff for you to go through:
 
 ## Python
 * Building a Chatbot
-##### Am I making money on my stocks?
-##### Making a keylogger and all things Cyber
-##### Gratuity Analysis: How much should you tip?
-##### Which Office Character are you?
-##### What do you mean: REcognizing Disposition in Sentence and Scoring Emotions
-##### Netflix to the rescue: Movie recommendation system
-##### Who said what now? Fake news detection and identification of source
-##### I didn't buy that! Credit Card fraud detection
+* Am I making money on my stocks?
+* Making a keylogger and all things Cyber
+* Gratuity Analysis: How much should you tip?
+* Which Office Character are you?
+* What do you mean: REcognizing Disposition in Sentence and Scoring Emotions
+* Netflix to the rescue: Movie recommendation system
+* Who said what now? Fake news detection and identification of source
+* I didn't buy that! Credit Card fraud detection
 
 ## Power BI
-##### Good Doggos at the Pound
-##### Netflix Dashboard and everything bingeworthy
-##### Graphical representation of all of my amazon purchases 
+* Good Doggos at the Pound
+* Netflix Dashboard and everything bingeworthy
+* Graphical representation of all of my amazon purchases 
 
 
 
