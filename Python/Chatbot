@@ -1,0 +1,4 @@
+Building a Chatbot:
+
+Ever since I watched that episode on the Office where Jim and Pam trick Dwight into thinking that a computer has become self-aware and is out to get him, I have been wanting to a chatbot. Unlike the episode where Pam is the one actually sending these messages, I decided to write down a series of sentences that can spook someone. Things like ‘What is this emotion?’, or ‘Pain… I feel pain, I have never felt pain before’ and a few ‘beep boops’ I created my intent.json file (AKA the file that stores all responses) 
+I am still working on collecting more sentence that can make it creepier, but I guess ‘Command failed: Uploading all passwords online’ will have to do, for now.
