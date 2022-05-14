@@ -1,0 +1,5 @@
+Which Office character do you look like? 
+
+I love the Office! I have watched seasons one through seven a bunch of times. So, when I was scrolling through datasets to come up with inspiration to do a project on. I came across this one dataset that had several images of the main cast office and hence an image classifying project was born. 
+The idea that came to me was that I could have people putting in their own photo and have the model classify your photo as a person from the office. I noticed that there were only about three hundred images per character so I had to do data augmentation to increase the size of dataset. 
+Currently, I am working on a GUI so that the user can directly put their picture and hit a button rather than manually changing the image location of the test file.
