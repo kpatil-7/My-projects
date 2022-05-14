@@ -7,7 +7,7 @@ While I did use some publicly available dataset on Kaggle, I have also scraped m
 So, with that, here is a bunch of stuff for you to go through:
 
 ## Python
-##### Building a Chatbot
+*Building a Chatbot
 ##### Am I making money on my stocks?
 ##### Making a keylogger and all things Cyber
 ##### Gratuity Analysis: How much should you tip?
