@@ -1,0 +1,15 @@
+Fake news detection and identification 
+
+This project was inspired by good ol’ high school gossip and well the plot of Easy A. In the movie, Emma Stone’s character spreads misinformation about herself to become popular. 
+This idea of generating false news was too appealing to me. I was interested in finding out about how fake news is spread, if we can identify its source and nip it on the bud. 
+Furthermore, I wanted to dive deeper into how it was spread and with the readily available twitter dataset I started out with this project.
+
+Unlike Michael Scott, instead of generating fake news myself and calling myself a J crew model (even though mentally, I like to think I am). 
+I relied on a prelabeled dataset where tweets that were fake were identified and based on it, I trained a machine learning model and used an example of tweets myself to check if the model was able to identify it.
+
+It’s a very gray area when we talk about fake news. I can say anything from ‘Aliens visited me last night’ to ‘Peanut butter can kill you’ and have it mean that the band named Aliens came to my house and that I am allergic to Peanut butter. 
+But since, I have about twenty followers on twitter it wouldn’t matter if I playing poker with actual Martians. Celebrities and influential people on the ither hand, they are a whole different story. 
+
+Ever since the Pandemic, the amount of fake news has drastically increased. From ‘Banana cures Covid’ to ‘Zoom trying to hack your passwords’ it was tough deciding what was real and what was not. 
+With an exception Fake news detection model that not only identifies what is misinformation but also fact checks with reputed news articles, we can stop the flow of wrong details. 
+But if anyone does ask, the answer is yes, I am a J crew model.
