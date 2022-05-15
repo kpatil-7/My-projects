@@ -1,0 +1,11 @@
+Credit Card Fraud Detection System
+
+I was always on the fence about getting a credit card. I was always told that loans are bad and that I have to be responsible about my money and they banks are evil and so on. 
+So naturally, I decided to do my own research on what the big deal is about them. No shock to anyone, credit cards weren’t the villain, people not knowing how to use a credit card was. 
+As I kept on reading, I learnt more about building a credit history, getting returns and most importantly identify theft. 
+
+Somewhere around August, I got an alert from my back saying that I have been getting charged the same amount from the same vendor everyday and they flagged that purchase. 
+Of course, since this was happening for the first time, I didn’t think about how I used to Divvy back home everyday at the same time, but my mind immediately went towards me getting scammed and that my credit card details were on the internet. 
+It also did not help that Divvy charges show up on the bill as ‘San Francisco’ and since I was not in that city, let alone the state I freaked out.
+
+Soon enough as I frantically googled why I was being charged, I decided upon working on fraud detection system. 
