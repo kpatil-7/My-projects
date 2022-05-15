@@ -1,0 +1,8 @@
+Movie recommendation system (AKA I’m bored and Netflix needs to fix it)
+
+Initially, I was working on a visualization project where I analyzed everything I have watched since forever and generated a dashboard on PowerBI. 
+I figured if you said that you liked a certain movie, you could cross reference the genres and the chances of you liking a similar movie would be greater. 
+Yes, there is a lot to it like the director, plot, production, or even if your favorite actor is in it. But I’ll be focusing on genres.
+
+The model is fairly simple, it asks the user to type in a movie Id, since the dataset has about a thousand entries, asking for an ID makes the task simpler and then suggesting similar movies.  
+I learnt that just based on genres is not enough, we need to account for several other factors, for example, I love Deadpool, but I did not like green lantern. 
