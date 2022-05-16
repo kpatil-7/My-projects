@@ -1,0 +1,11 @@
+method findFirstGreater (a: seq<int>, x: int) returns (i : int)
+ensures i >= 0
+ensures if i < |a| then x <= a[i] else i == |a|
+{
+    i := 0;
+    while (i < |a| && a[i] <= x)
+    invariant (i <= |a| && 0 <= i)
+    {
+        i := i + 1;
+    }
+}
