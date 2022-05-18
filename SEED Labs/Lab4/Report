@@ -1,0 +1,62 @@
+Introduction to Information Security
+Lab4: SQL Injection Attack
+
+
+Task 1
+I ran the given command mysql -u root -pseedubuntu 
+Then use Users & show Tables  
+
+
+Task 2.1
+In this task I had to figure out how to log into the web application as the administrator from the login page without password.   
+I tried admin’# which is a vulnerability.
+It worked, which means the attack was successful.
+
+
+Task 2.2
+In this task I had to figure out how to log into the web application as the administrator from the command line this time. 
+Firstly, I found out that the unsafe_home.php uses get method.
+Then I ran curl ‘www.SeedLabSQLInjection.com/unsafe_home.php?username=admin%27%23&Password=’
+Where %27 and %23 are url encoded versions of ‘ and #
+
+
+Task 2.3
+In this task I had to attack to delete a record from the database but by running two queries with ;
+First, I tried using 1 =1; Delete from credentials where name = ‘Alice”;# 
+But it did not work as I got the above output.
+Then I went to unsafe_home.php and saw the code 
+I changed ‘query’ to ‘multi_query’. Since in the previous code it only allowed one query at a time. And went back to try it out again.
+To verify if the record was deleted I used command line to display al records and Alice was deleted.
+ 
+
+Task 3.1
+I had to modify my salary, since I had already deleted Alice’s record, I’m going to modify Ryan’s. First, I logged in using Ryan’# and found his profile. 
+Then in Nicknames, I ran ‘,salary =‘1100000
+And checked on the profile. It worked!
+
+
+Task 3.2
+In this task I had to change Boby’s salary to 1
+In Ryan’s profile in nickname I put ‘, salary=1 WHERE Name=’Boby’;# and checked boby’s profile on terminal.
+
+
+Task 3.3
+I had to change Boby’s password knowing that it uses SHA1so I decided to run the hashed version of SQL injection attach and generated my own password by running :
+Echo -n “passwordhacked” | sha1sum
+I got some hash value, which will be the password I will use. Before I make any changes, in command line I decided to view Boby’s original password so that we know it has been changed.  
+Then I went back to Ryan’s profile and in Nicknames ran ‘,password= ‘hashedpassword’ where name=’Boby’;#
+I went back to command line to check boby’s hashed password.  
+It’s changed. Just to verify that if it works, I went to the login page and put in Boby’s username and new password.
+It worked! The attack was successful as I saw Boby’s profile.
+ 
+
+Task 4
+In this task I had to make changes so that the webpages is not affected by this injection attack anymore.
+First, I opened both safe_home.php and unsafe_home.php on sublime.
+I noticed that this part of the code is what will protect our webpage from inject attacks. So, I went to unsafe_home.php and changed the code to the following.  
+To check if m modifications worked, I went to the Login page and tried the attack again. 
+But this time it failed, which meant that the necessary changes were made and now this website is immune from this type of SQL injection attack.
+
+ 
+Conclusion:
+I learnt that SQLInjection attacks are dangerous as they can change your data without your actual password. I also learnt how to secure my webpages from such type of attacks.
