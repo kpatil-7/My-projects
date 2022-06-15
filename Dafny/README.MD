@@ -1,0 +1,17 @@
+# Contents
+
+During my time taking a course titled "Science of Programming" I had the chance to learn about the differences of verification and testing and 
+what all goes into defining specs.I spent time getting to know about termination of programs, loop bounds, loop invarients, pratial and total correctness, 
+Hoare triples, Domain predicates, Proof Outlines, Parellel Programs, Sequential non-determinism
+and much more.
+
+Dafny was a tool we used to check if the loop bounds were true thorugh out the program.
+Here are a few programs I worked on:
+
+### Find the greatest number in Array:
+
+### Calculate the square of a number:
+
+### Check if number of positive numbers is equare to the number of negetive numbers:
+
+### Work out the sum of all the elements of an array:
