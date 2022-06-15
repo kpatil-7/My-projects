@@ -1,4 +1,5 @@
 # Contents
+Take a look at a few of my PowerBi Dashboards!
 
 ### Adopt a Dog!
 
