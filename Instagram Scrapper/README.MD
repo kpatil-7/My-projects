@@ -1,4 +1,4 @@
-### Instagram Scrapper
+# Instagram Scrapper
 With updated laws from instagram and policies put in place to prevent user dat from being proded and exploited. It might be difficult to get data for Instagram. Whille there are available datasets, you have to sign NDAs for those and obtaining them can get quite difficult.
 Here is a way on how to get Instagram data*
 
