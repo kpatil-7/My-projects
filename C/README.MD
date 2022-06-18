@@ -1,4 +1,5 @@
 # Building a Database Management system
+![DBMS](https://user-images.githubusercontent.com/89879994/174415082-777c7375-4c2f-4e7a-a9e2-fdd01193f16f.png)
 
 While this project initially started off as an assignment, I had taken quite the liking in finishing this and implementing a few of my own features and really putting my own special spin on it. I had some experience with a DBMS, but never creating one from scratch and manging products and/or customers on it. The assignmetn started off by giving me a list of ten items to manage them. Here is what was asked of me.
 
