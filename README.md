@@ -24,14 +24,23 @@ So, with that, here is a bunch of stuff for you to go through:
 
 ## C
 * Implementing a Database Management System:
-1)  w
-2)  w
-3)  w
-4)  w
-5)  w
-6)  ww
-7)  w
-8)  w
+1)  Menu
+2)	Display all records
+3)	Count number of Employees
+4)	Search by ID
+5)	Search by Name
+6)	Add new Employees 
+7)	Exit message
+8)	Error message
+9)	Delete Employee
+10)	Update Employee
+11)	Get highest M salaries
+12)	Search with all last names
+
+## Dafny 
+
+
+
 
 
 
