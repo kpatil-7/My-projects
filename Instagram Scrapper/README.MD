@@ -5,6 +5,8 @@ Here is a way on how to get Instagram data*
 I found a way by installing this extension called Data Miner which makes scrapping possible, but there are a few things that need to be dealt with first.
 
 ## Data Miner 
+![Data miner](https://user-images.githubusercontent.com/89879994/174414828-8b6d11a4-c281-4f37-ab85-74ec8b27e08c.png)
+
 What is it you might ask? Data Miner is the most powerful web scraping tool for professional data miners. Data Miner is a Google Chrome Extension and Edge Browser Extension that helps you crawl and scrape data from web pages and into a CSV file or Excel spreadsheet. Intuitive User Interface and workflow
 Data Miner has an intuitive UI to help you execute advance data extraction and web crawling.
 
