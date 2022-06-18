@@ -22,5 +22,16 @@ So, with that, here is a bunch of stuff for you to go through:
 * Netflix Dashboard and everything bingeworthy
 * Graphical representation of all of my amazon purchases 
 
+## C
+* Implementing a Database Management System:
+1)  w
+2)  w
+3)  w
+4)  w
+5)  w
+6)  ww
+7)  w
+8)  w
+
 
 
