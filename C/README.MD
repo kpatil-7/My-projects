@@ -40,7 +40,7 @@ In here, the user could put in the employee ID and alter the salary of any cliet
 3) Getting M highest Salary:
 Here the user would type a random positive integer M for which the code should dispay that M highest salary. For this, I created a seperate function for sorting the users in descending order before calling the fuction to diplay the salary.
 
-4) Multiple Lastnames
+4) Multiple Lastnames:
 Its a very real possibility that multiple people could have the same last name. So I create a function that would ask for a last name and return all the employees wit hthe same last number. 
 
 ### Conlcusion
