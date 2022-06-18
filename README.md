@@ -38,6 +38,12 @@ So, with that, here is a bunch of stuff for you to go through:
 12)	Search with all last names
 
 ## Dafny 
+* Find the greatest number in Array
+* Calculate the square of a number
+* Check if number of positive numbers is equal to the number of negative numbers  
+* Work out the sum of all the elements of an array
+
+
 
 
 
